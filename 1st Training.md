@@ -1,14 +1,35 @@
-# This is heading number one
+# First R Training
 
-And this is just plain text. Now am using *italic* font to show what I am **actually** talking about.
+In preparation of the first training, please do the following:
 
-## This is heading number three
+1. Download and install R 
+2. Download and install RStudio
+3. Open RStudio
+4. Bring yourself and your laptop to Eawag (Room Aqualino) on 04.10.2016 at 17:45
 
-* and this is a bullet point
-*     a second bullet point
 
-<img src="/Users/Lars/Dropbox/Screenshots/Figure 6.3.1.png" alt="Example Image" height="50" width="50">
+### 1. Download and install R
 
+* Go to http://www.r-project.org
+* Download R for your operating system (Linux, (Mac) OS X, Windows)
+* Install R
+
+
+### 2. Download and install RStudio
+
+* Go to https://www.rstudio.com
+* Download RStudio for your operating system (Linux, (Mac) OS X, Windows)
+* Install R
+
+
+### 3. Open RStudio
+
+* Take a screenshot
+
+
+### 4. Bring your laptop to the 1st Training
+
+Aqualino at Eawag, 04.10.2016, 17:45
 
 
 
