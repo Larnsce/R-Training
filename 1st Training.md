@@ -1,4 +1,4 @@
-# First R Training
+# First R Training - Preparation
 
 In preparation of the first training, please do the following:
 
