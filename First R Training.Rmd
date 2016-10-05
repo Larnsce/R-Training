@@ -1,10 +1,3 @@
----
-title: "First R Training"
-author: "Lars Schoebitz @Larnsce"
-date: "4 October 2016"
-output: html_document
----
-
 ## Introduction
 
 This document includes the code for all exercises that were introduced during the First R Training on October 4th 2016. The dataset 'compensation.csv' can be downloaded from: https://github.com/Larnsce/datasets.git
@@ -108,15 +101,6 @@ summarise(cmps,
 
 ```
 
-
-```{r, echo = FALSE, eval = FALSE,  message = FALSE, warning = FALSE}
-
-I_am_great <- summarise(group_by(cmps, Grazing), 
-                        medianRatio = median(Fruit/Root),
-                        varRatio = var(Fruit/Root),
-                        nRatio= n())
-
-```
 
 
 
