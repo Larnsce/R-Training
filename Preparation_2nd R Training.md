@@ -22,7 +22,7 @@ This dataset shows you urban population in % of total population for 265  countr
 3. Explore the dataset by using the functions that we practised during the first training.  
 4. The total population of Uganda in 2002 was 24,227,297. Calculate the total urban population of Uganda in 2002.
 
-Most importantly: Do not get too frustrated if number 5 and 6 do not work immediately. It will take some time and effort to easily master these tasks.
+Most importantly: Do not get too frustrated if number 4 does not work immediately. It will take some time and effort to easily master these tasks.
 
 
 
