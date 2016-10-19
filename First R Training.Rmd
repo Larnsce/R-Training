@@ -2,9 +2,6 @@
 
 This document includes the code for all exercises that were introduced during the First R Training on October 4th 2016. The dataset 'compensation.csv' can be downloaded from: https://github.com/Larnsce/datasets.git
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 ## The first 3 Steps
 
 Step 1 - Clear R's Brain
