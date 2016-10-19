@@ -24,7 +24,7 @@ Step 3 - Read the compensation dataset into R using read.csv()
 ```{r, echo = FALSE,  message = FALSE, warning = FALSE}
 
 # Read data into R
-cmps <- read.csv("/Users/Lars/Dropbox/05 R/00 R Training/01 Introduction/0 - datasets/compensation.csv")
+cmps <- read.csv("/Users/Your Name/Sub-Folder1/Sub-Folder2/0 - datasets/compensation.csv")
 
 ```
 
