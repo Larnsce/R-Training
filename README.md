@@ -1,6 +1,8 @@
 # R-Training
 
-Welcome! This is the repository for the R Training provided at Eawag/Sandec. The purpose of this repository is to collect all slides, R scripts, datasets and exercises that are used as part of the training. 
+Welcome! 
+
+This is the repository for a training in R provided at [Eawag/Sandec](https://twitter.com/nhcooper123) Lars Schoebitz [@Larnsce](https://twitter.com/Larnsce). The purpose of this repository is to collect all slides, R scripts, datasets and exercises that are used as part of the training. 
 
 ## References
 
