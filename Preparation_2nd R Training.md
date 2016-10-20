@@ -13,7 +13,7 @@ In preparation of the second training, please do the following:
 
 ### For the motivated
 
-In case you feel motivated to do some more practise, download the upop.csv file from here: https://github.com/Larnsce/R-Training
+In case you feel motivated to do some more practise, download the upop.csv file from here: http://bit.ly/u_pop 
 
 This dataset shows you urban population in % of total population for 265  countries and regions between 1960 and 2015. The original dataset can be accessed here: http://data.worldbank.org/data-catalog/world-development-indicators
 
